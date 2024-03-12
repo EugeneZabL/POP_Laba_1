@@ -1,0 +1,15 @@
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\bin\Debug\net6.0\TreadLab1C++++.exe
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\bin\Debug\net6.0\TreadLab1C++++.deps.json
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\bin\Debug\net6.0\TreadLab1C++++.runtimeconfig.json
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\bin\Debug\net6.0\TreadLab1C++++.dll
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\bin\Debug\net6.0\TreadLab1C++++.pdb
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.csproj.AssemblyReference.cache
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.AssemblyInfoInputs.cache
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.AssemblyInfo.cs
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.dll
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\refint\TreadLab1C++++.dll
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.pdb
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\TreadLab1C++++.genruntimeconfig.cache
+C:\Users\Eugene\source\repos\TreadLab1C++++\TreadLab1C++++\obj\Debug\net6.0\ref\TreadLab1C++++.dll
